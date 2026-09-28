@@ -1,0 +1,31 @@
+{
+  "name": "vp",
+  "version": "1.0.0",
+  "description": "Veebiprogrammeerimises tehtud veeb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://hugoheins@github.com/hugoheins/vp.git"
+  },
+  "keywords": [
+    "Node.Js",
+    "veeb",
+    "Tallinna",
+    "Ülikool",
+    "üliõpilane",
+    "DTI",
+    "koolitöö"
+  ],
+  "author": "Hugo Heinsalu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hugoheins/vp/issues"
+  },
+  "homepage": "https://github.com/hugoheins/vp#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
